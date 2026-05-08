@@ -1,0 +1,20 @@
+-----Variables-----
+(para di malito)
+
+itachi = Main window
+brook = App instance
+ichigo = Window reference
+kakashi = Operation type
+tsunade = Title label
+zoro = Menu widget
+sasuke = First input box
+sanji = Second input box
+ace = Calculate button
+urahara = Result label
+naruto = Number 1 (Logic)
+luffy = Number 2 (Logic)
+sakura = Input 1 value
+nami = Input 2 value
+shunsui = Operation name
+aizen = Operation object
+whitebeard = Final result
